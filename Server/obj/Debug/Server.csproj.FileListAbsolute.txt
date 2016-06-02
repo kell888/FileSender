@@ -1,0 +1,16 @@
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Server\bin\Debug\Server.exe
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Server\bin\Debug\Server.pdb
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Server\bin\Debug\FileTransmitor.dll
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Server\bin\Debug\FileTransmitor.pdb
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Server\obj\Debug\Server.exe
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Server\obj\Debug\Server.pdb
+D:\历史C盘\baidu\技术程序资源 待处理\C%23+socket+多线程多管道可断点传送大文件%28附单线程单管道传送%29\FileSender\Server\obj\Debug\Server.exe
+D:\历史C盘\baidu\技术程序资源 待处理\C%23+socket+多线程多管道可断点传送大文件%28附单线程单管道传送%29\FileSender\Server\obj\Debug\Server.pdb
+E:\soft\FileSender(支持断点续传)\Server\obj\Debug\Server.exe
+E:\soft\FileSender(支持断点续传)\Server\obj\Debug\Server.pdb
+E:\soft\FileSender(支持断点续传)\Server\bin\Debug\Server.exe
+E:\soft\FileSender(支持断点续传)\Server\bin\Debug\Server.pdb
+E:\soft\FileSender(支持断点续传)\Server\bin\Debug\FileTransmitor.dll
+E:\soft\FileSender(支持断点续传)\Server\bin\Debug\FileTransmitor.pdb
+E:\soft\FileSender(支持断点续传)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

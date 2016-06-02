@@ -1,0 +1,19 @@
+Time:18:57. System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“Form1”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 TestServer.Form1.ReportSpeed(String id, Int32 speed) 位置 E:\soft\FileSender(支持断点续传)\TestServer\Form1.cs:行号 43
+   在 FileTransmitor.FileTransmiter.SupperReceive(IPEndPoint ip, String path, ReceiveWorker& worker, Action`3 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 693
+   在 TestServer.Form1.<Form1_Load>b__0(Object ) 位置 E:\soft\FileSender(支持断点续传)\TestServer\Form1.cs:行号 57
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+Time:22:50. System.Net.Sockets.SocketException: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 TestServer.Form1.<Listen>b__0(Object ) 位置 E:\soft\FileSender(支持断点续传)\TestServer\Form1.cs:行号 71
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)

@@ -1,0 +1,11 @@
+E:\soft\FileSender(支持断点续传)\TestClient\obj\x86\Debug\TestClient.csproj.GenerateResource.Cache
+E:\soft\FileSender(支持断点续传)\TestClient\bin\Debug\TestClient.exe.config
+E:\soft\FileSender(支持断点续传)\TestClient\bin\Debug\TestClient.exe
+E:\soft\FileSender(支持断点续传)\TestClient\bin\Debug\TestClient.pdb
+E:\soft\FileSender(支持断点续传)\TestClient\bin\Debug\FileTransmitor.dll
+E:\soft\FileSender(支持断点续传)\TestClient\bin\Debug\FileTransmitor.pdb
+E:\soft\FileSender(支持断点续传)\TestClient\obj\x86\Debug\TestClient.csprojResolveAssemblyReference.cache
+E:\soft\FileSender(支持断点续传)\TestClient\obj\x86\Debug\TestClient.Form1.resources
+E:\soft\FileSender(支持断点续传)\TestClient\obj\x86\Debug\TestClient.Properties.Resources.resources
+E:\soft\FileSender(支持断点续传)\TestClient\obj\x86\Debug\TestClient.exe
+E:\soft\FileSender(支持断点续传)\TestClient\obj\x86\Debug\TestClient.pdb

@@ -1,0 +1,46 @@
+Time:17:28. System.DivideByZeroException: 试图除以零。
+   在 FileTransmitor.FileTransmiter.SupperSend(IPEndPoint ip, String path, SendWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 527
+   在 TestClient.Form1.Send(Object o) 位置 E:\soft\FileSender(支持断点续传)\TestClient\Form1.cs:行号 185
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True
+Time:17:40. System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 FileTransmitor.FileTransmiter.SupperSend(IPEndPoint ip, String path, SendWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 492
+   在 TestClient.Form1.Send(Object o) 位置 E:\soft\FileSender(支持断点续传)\TestClient\Form1.cs:行号 185
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True
+Time:17:40. System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 FileTransmitor.FileTransmiter.SupperSend(IPEndPoint ip, String path, SendWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 492
+   在 TestClient.Form1.Send(Object o) 位置 E:\soft\FileSender(支持断点续传)\TestClient\Form1.cs:行号 185
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True
+Time:17:42. System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 FileTransmitor.FileTransmiter.SupperSend(IPEndPoint ip, String path, SendWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 492
+   在 TestClient.Form1.Send(Object o) 位置 E:\soft\FileSender(支持断点续传)\TestClient\Form1.cs:行号 185
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True
+Time:18:20. System.DivideByZeroException: 试图除以零。
+   在 FileTransmitor.FileTransmiter.SupperSend(IPEndPoint ip, String path, SendWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 528
+   在 TestClient.Form1.Send(Object o) 位置 E:\soft\FileSender(支持断点续传)\TestClient\Form1.cs:行号 185
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True

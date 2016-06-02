@@ -1,0 +1,17 @@
+Time:21:21. System.IO.FileNotFoundException: 无法找到指定文件。
+   在 Rocky.FileTransmiter.SupperSend(IPEndPoint ip, String path) 位置 D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\FileTransmitor.cs:行号 492
+   在 Client.Program.Main(String[] args) 位置 D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Client\Program.cs:行号 18
+Time:16:48. System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 Rocky.FileTransmiter.SendWorker.Work(Object obj) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 83
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+Time:16:55. System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.NormalizePathFast(String path, Boolean fullCheck)
+   在 System.IO.FileInfo..ctor(String fileName)
+   在 Rocky.FileTransmiter.SupperSend(IPEndPoint ip, String path) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 499
+   在 Client.Program.Main(String[] args) 位置 E:\soft\FileSender(支持断点续传)\Client\Program.cs:行号 18
+   在 System.AppDomain._nExecuteAssembly(Assembly assembly, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()

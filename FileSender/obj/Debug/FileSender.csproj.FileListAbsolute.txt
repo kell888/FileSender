@@ -1,0 +1,5 @@
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\bin\Debug\FileSender.exe
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\bin\Debug\FileSender.pdb
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\obj\Debug\FileSender.exe
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\obj\Debug\FileSender.pdb

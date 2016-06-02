@@ -1,0 +1,35 @@
+Time:17:28. System.DivideByZeroException: 试图除以零。
+   在 FileTransmitor.FileTransmiter.SupperReceive(IPEndPoint ip, String path, ReceiveWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 638
+   在 TestServer.Form1.<Listen>b__0(Object ) 位置 E:\soft\FileSender(支持断点续传)\TestServer\Form1.cs:行号 86
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True
+Time:17:31. System.InvalidOperationException: 在执行此操作前必须先调用 Listen 方法。
+   在 System.Net.Sockets.Socket.Accept()
+   在 FileTransmitor.FileTransmiter.SupperReceive(IPEndPoint ip, String path, ReceiveWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 572
+   在 TestServer.Form1.<Listen>b__0(Object ) 位置 E:\soft\FileSender(支持断点续传)\TestServer\Form1.cs:行号 86
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True
+Time:17:49. System.Net.Sockets.SocketException: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 FileTransmitor.FileTransmiter.SupperReceive(Socket listener, String path, ReceiveWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 580
+   在 TestServer.Form1.<Listen>b__0(Object ) 位置 E:\soft\FileSender(支持断点续传)\TestServer\Form1.cs:行号 86
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True
+Time:18:21. System.DivideByZeroException: 试图除以零。
+   在 FileTransmitor.FileTransmiter.SupperReceive(Socket client, String path, ReceiveWorker worker, Action`4 statusHandler, Action`2 speedHandler) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 641
+   在 TestServer.Form1.<Listen>b__0(Object ) 位置 E:\soft\FileSender(支持断点续传)\TestServer\Form1.cs:行号 87
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+CLR IsTerminating:True

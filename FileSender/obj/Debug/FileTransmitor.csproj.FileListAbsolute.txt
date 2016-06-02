@@ -1,0 +1,9 @@
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\bin\Debug\FileTransmitor.dll
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\bin\Debug\FileTransmitor.pdb
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\obj\Debug\FileTransmitor.dll
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\obj\Debug\FileTransmitor.pdb
+E:\soft\FileSender(支持断点续传)\FileSender\bin\Debug\FileTransmitor.dll
+E:\soft\FileSender(支持断点续传)\FileSender\bin\Debug\FileTransmitor.pdb
+E:\soft\FileSender(支持断点续传)\FileSender\obj\Debug\FileTransmitor.dll
+E:\soft\FileSender(支持断点续传)\FileSender\obj\Debug\FileTransmitor.pdb

@@ -1,0 +1,17 @@
+Time:11:11. System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 Rocky.FileTransmiter.ReceiveWorker.Work(Object obj) 位置 D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\FileSender\FileTransmitor.cs:行号 187
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+Time:16:37. System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 Rocky.FileTransmiter.ReceiveWorker.Work(Object obj) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 187
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)
+Time:16:41. System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 Rocky.FileTransmiter.ReceiveWorker.Work(Object obj) 位置 E:\soft\FileSender(支持断点续传)\FileSender\FileTransmitor.cs:行号 189
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart(Object obj)

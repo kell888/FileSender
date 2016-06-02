@@ -1,0 +1,14 @@
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Client\bin\Debug\Client.exe
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Client\bin\Debug\Client.pdb
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Client\bin\Debug\FileTransmitor.dll
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Client\bin\Debug\FileTransmitor.pdb
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Client\obj\Debug\Client.exe
+D:\Documents and Settings\v.wangxiaoming\My Documents\Visual Studio 2008\Projects\FileSender\Client\obj\Debug\Client.pdb
+E:\soft\FileSender(支持断点续传)\Client\bin\Debug\Client.exe
+E:\soft\FileSender(支持断点续传)\Client\bin\Debug\Client.pdb
+E:\soft\FileSender(支持断点续传)\Client\bin\Debug\FileTransmitor.dll
+E:\soft\FileSender(支持断点续传)\Client\bin\Debug\FileTransmitor.pdb
+E:\soft\FileSender(支持断点续传)\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\soft\FileSender(支持断点续传)\Client\obj\Debug\Client.exe
+E:\soft\FileSender(支持断点续传)\Client\obj\Debug\Client.pdb
